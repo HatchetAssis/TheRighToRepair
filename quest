@@ -1,0 +1,11 @@
+1.como o rust armazena um input do usuario 
+
+2.como o rust usa o protocolo https para transmitir informaçoes do front pro beck e do beck prp front 
+
+3.como o rust separa termos para serem pesquisados no banco de dados 
+
+4.como o rust pode gerar sqlx para armazenar uploads de usuario 
+
+5.como rust pode verificar se inputs de usuario sao seguros
+
+6.como disponibilisar uma resposta do beckend que veio do banco de dados de forma organisada no front end html css se neseesario rust yew web assembly
